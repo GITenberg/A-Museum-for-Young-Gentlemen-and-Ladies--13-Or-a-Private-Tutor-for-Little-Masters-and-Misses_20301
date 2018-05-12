@@ -1,0 +1,25 @@
+_repo: A-Museum-for-Young-Gentlemen-and-Ladies--13-Or-a-Private-Tutor-for-Little-Masters-and-Misses_20301
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2007-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geography -- Juvenile literature'
+- !lcc 'PN'
+- !lcsh 'Manners and customs -- Juvenile literature'
+- !lcsh 'Great Britain -- History -- Juvenile literature'
+- !lcsh 'Handbooks, vade-mecums, etc. -- Juvenile literature'
+- !lcsh 'Children''s reference books'
+- !lcc 'AG'
+title: "A Museum for Young Gentlemen and Ladies\r\nOr, a Private Tutor for Little\
+  \ Masters and Misses"
+url: http://www.gutenberg.org/ebooks/20301
